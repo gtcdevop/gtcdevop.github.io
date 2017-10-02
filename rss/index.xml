@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gustavo Cagnin Portifolio]]></title><description><![CDATA[WebSite and Stuffs]]></description><link>http://blog.gustavo.pro</link><generator>RSS for Node</generator><lastBuildDate>Mon, 02 Oct 2017 21:26:25 GMT</lastBuildDate><atom:link href="http://blog.gustavo.pro/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Your Blog title]]></title><description><![CDATA[<div class="paragraph">
-<p>What&#8217;s new</p>
-</div>
-<div class="paragraph">
-<p>What&#8217;s old
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gustavo Cagnin Portifolio]]></title><description><![CDATA[WebSite and Stuffs]]></description><link>http://blog.gustavo.pro</link><generator>RSS for Node</generator><lastBuildDate>Mon, 02 Oct 2017 23:40:12 GMT</lastBuildDate><atom:link href="http://blog.gustavo.pro/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Your Blog title]]></title><description><![CDATA[<div class="paragraph">
+<p>What&#8217;s new
 ---</p>
 </div>]]></description><link>http://blog.gustavo.pro/2017/09/30/Your-Blog-title.html</link><guid isPermaLink="true">http://blog.gustavo.pro/2017/09/30/Your-Blog-title.html</guid><pubDate>Sat, 30 Sep 2017 00:00:00 GMT</pubDate></item></channel></rss>
