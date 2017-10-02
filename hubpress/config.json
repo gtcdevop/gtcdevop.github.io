@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://gtcdevop.github.io",
-    "hubpress": "https://gtcdevop.github.io",
-    "theme": "//gtcdevop.github.io/themes/casper",
-    "images": "https://gtcdevop.github.io/images"
+    "site": "http://blog.gustavo.pro",
+    "hubpress": "http://blog.gustavo.pro",
+    "theme": "//blog.gustavo.pro/themes/casper",
+    "images": "http://blog.gustavo.pro/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
